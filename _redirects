@@ -1,0 +1,2 @@
+# This is a rewrite rule, not a redirect
+/.well-known/webauthn    /webauthn-config.json    200
